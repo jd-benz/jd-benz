@@ -30,4 +30,4 @@ I have been coding for over 7 years. I am very passionate about all things softw
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/jd-benz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/jdbenz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
